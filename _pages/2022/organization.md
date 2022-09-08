@@ -5,21 +5,23 @@ permalink: /2022/organization/
 
 ## <span style="color:#267CB9"> Organizing committee</span>
 
-* [Shabnam Tafreshi](https://www.linkedin.com/in/shabnamtafreshi), University of Maryland: ARLIS
+* [Georgia Chalvatzaki](), TU Darmstadt
 
-* [João Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
- 
-* [Anna Rogers](http://www.annargrs.github.io/), University of Copenhagen
+* [Jeannette Bohg](https://web.stanford.edu/~bohg/), Stanford University
 
-* [Aleksandr Drozd](https://blackbird.pw/), RIKEN
+* [Takayuki Osa](https://takaosa.github.io/), University of Tokyo 
 
-* [Anna Rumshisky](http://www.cs.uml.edu/~arum/), University of Massachusetts Lowell / Amazon Alexa
+* [Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/), Carnegie Mellon University
 
-* [Arjun Reddy Akula](https://research.google/people/ArjunReddyAkula/), Google AI
+* [Fabio Ramos](https://fabioramos.github.io/), University of Sydney / NVIDIA
+
+* [Snehal Jauhri](), TU Darmstadt
+
+* [Ali Younes]() TU Darmstadt
+
+* [Mohit Sharma](https://mohitsharma0690.github.io/), Carnegie Mellon University
 
 
-
-
-Contact: [insights-workshop-organizers@googlegroups.com](mailto:insights-workshop-organizers@googlegroups.com)
+Contact: [georgia.chalvatzaki@tu-darmstadt.de](mailto:georgia.chalvatzaki@tu-darmstadt.de)
 
 
