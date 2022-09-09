@@ -41,8 +41,8 @@ plugins:
   - jekyll-feed
 
 encoding: UTF-8
-logo:  /assets/img/lemonade-logo.png
-title_image: /assets/img/lemonade-white.png
+logo:  /RAP4Robots/assets/img/lemonade-logo.png
+title_image: /RAP4Robots/assets/img/lemonade-white.png
 show_downloads: false
 # google_analytics: UA-127096214-1
 
