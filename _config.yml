@@ -18,7 +18,8 @@ email: mohits1@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
  Workshop on Efficient Representations, Abstractions, Priors for Robot Learning
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://insights-workshop.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# url: http://insights-workshop.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://mohitsharma0690.github.io/RAP4Robots
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
